@@ -1,0 +1,10 @@
+*{background-color: white;}
+.container,.container2,.container3{
+     width: 50%;
+     height: 155%;
+     border: 2px solid black;
+     margin-left: 27%;
+}
+.image{
+     margin-left: 10px;
+}
